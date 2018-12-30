@@ -1,0 +1,11 @@
+C:\Users\MB4229\source\repos\Algorithms\AlgorithmsTests\obj\Debug\AlgorithmsTests.csprojAssemblyReference.cache
+C:\Users\MB4229\source\repos\Algorithms\AlgorithmsTests\obj\Debug\AlgorithmsTests.csproj.CoreCompileInputs.cache
+C:\Users\MB4229\source\repos\Algorithms\AlgorithmsTests\bin\Debug\AlgorithmsTests.dll
+C:\Users\MB4229\source\repos\Algorithms\AlgorithmsTests\bin\Debug\AlgorithmsTests.pdb
+C:\Users\MB4229\source\repos\Algorithms\AlgorithmsTests\bin\Debug\Algorithm.dll
+C:\Users\MB4229\source\repos\Algorithms\AlgorithmsTests\bin\Debug\nunit.framework.dll
+C:\Users\MB4229\source\repos\Algorithms\AlgorithmsTests\bin\Debug\Algorithm.pdb
+C:\Users\MB4229\source\repos\Algorithms\AlgorithmsTests\bin\Debug\nunit.framework.xml
+C:\Users\MB4229\source\repos\Algorithms\AlgorithmsTests\obj\Debug\AlgorithmsTests.csproj.CopyComplete
+C:\Users\MB4229\source\repos\Algorithms\AlgorithmsTests\obj\Debug\AlgorithmsTests.dll
+C:\Users\MB4229\source\repos\Algorithms\AlgorithmsTests\obj\Debug\AlgorithmsTests.pdb

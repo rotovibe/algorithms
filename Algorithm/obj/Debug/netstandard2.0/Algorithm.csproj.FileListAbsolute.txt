@@ -1,0 +1,9 @@
+C:\Users\MB4229\source\repos\Algorithms\Algorithm\bin\Debug\netstandard2.0\Algorithm.deps.json
+C:\Users\MB4229\source\repos\Algorithms\Algorithm\bin\Debug\netstandard2.0\Algorithm.dll
+C:\Users\MB4229\source\repos\Algorithms\Algorithm\bin\Debug\netstandard2.0\Algorithm.pdb
+C:\Users\MB4229\source\repos\Algorithms\Algorithm\obj\Debug\netstandard2.0\Algorithm.csprojAssemblyReference.cache
+C:\Users\MB4229\source\repos\Algorithms\Algorithm\obj\Debug\netstandard2.0\Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\MB4229\source\repos\Algorithms\Algorithm\obj\Debug\netstandard2.0\Algorithm.AssemblyInfoInputs.cache
+C:\Users\MB4229\source\repos\Algorithms\Algorithm\obj\Debug\netstandard2.0\Algorithm.AssemblyInfo.cs
+C:\Users\MB4229\source\repos\Algorithms\Algorithm\obj\Debug\netstandard2.0\Algorithm.dll
+C:\Users\MB4229\source\repos\Algorithms\Algorithm\obj\Debug\netstandard2.0\Algorithm.pdb
